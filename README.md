@@ -1,1 +1,5 @@
-# hdmi_basics_on_zynq
+# Pattern Displayed over HDMI using Zynq
+
+### To Do
+- Update README
+- Add screenshots

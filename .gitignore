@@ -1,0 +1,35 @@
+# Ignore Eclipse project settings
+*.launch
+*.project
+*.cproject
+*.settings/
+RemoteSystemsTempFiles/
+software/RemoteSystemsTempFiles/
+hardware/RemoteSystemsTempFiles/
+
+# Ignore Vivado/Vitis intermediate and generated output
+*.jou
+*.str
+*.xml
+*.html
+*.xsa
+*.rpt
+*.cache/
+*.runs/
+*.ip_user_files/
+*.hw/
+*.sim/
+*.sdk/
+*.xpr
+*.xise
+*.vivado.log
+vivado.*
+
+
+hardware/hdim_proj/
+hardware/hdmi_proj/hdmi_proj.gen/
+hardware/hdmi_proj/hdmi_proj.srcs/sources_1/ip/
+hardware/hdmi_proj/hdmi_proj.srcs/constrs_1/
+hardware/hdmi_proj/hdmi_proj.ip_user_files/
+!hardware/hdim_proj/hdim_proj.xpr
+!hardware/constraints
